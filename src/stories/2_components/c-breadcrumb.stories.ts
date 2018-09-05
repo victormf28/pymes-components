@@ -1,5 +1,6 @@
 import { storiesOf } from '@storybook/angular';
-import { CBreadcrumb } from './c-breadcrumb';
+// import { CBreadcrumb } from '@structure/2_components/c-breadcrumb/c-breadcrumb';
+import { CBreadcrumb } from './../../structure/2_components/c-breadcrumb/c-breadcrumb';
 
 let items = ['Home', 'Library', 'Data'];
 
